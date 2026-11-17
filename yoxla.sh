@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Tesekkurler, skript isleyir"
+echo "Yeni mesaj"
